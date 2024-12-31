@@ -93,6 +93,7 @@ public class MuzikKutuphane {
                         System.out.println("Ana menüye dönülüyor...");
                         break;
 
+                    //undo, yapılan son işlemi geri almak için
                     case "undo":
                         if (!islemGecmisi.isEmpty()) {
                             System.out.println("Son işlem geri alındı: " + islemGecmisi.pop());
