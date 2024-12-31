@@ -1,7 +1,7 @@
 package veriProject;
 
 import java.util.Scanner;
-import java.util.HashMap;
+import java.util.HashMap;  //ressamların resimlerini saklıyor
 import java.util.List;
 import java.util.ArrayList;
 
