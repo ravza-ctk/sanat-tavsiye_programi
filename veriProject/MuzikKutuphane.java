@@ -1,8 +1,8 @@
 package veriProject;
 
 import java.util.Scanner;
-import java.util.LinkedList;
-import java.util.Stack;
+import java.util.LinkedList; //Oynatma listesi için
+import java.util.Stack; //yapılan işlemleri kaydeder
 
 
 
